@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VinOuO
 - 👀 I’m interested in Game Design
 - 🌱 I’m currently learning Game Design
-- ✨ My portfolio https://vinouo.github.io/Portfolio/
+- ✨ My portfolio https://vinouo.com
 - 📫 How to reach me vviinncceenntt21@gmail.com
 
 <!---
